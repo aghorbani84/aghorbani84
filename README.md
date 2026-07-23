@@ -17,7 +17,8 @@
   <a href="https://github.com/abolfazlghorbani"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
   <a href="https://abolfazlghorbani84.ir"><img src="https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=About.me&logoColor=white" alt="website"/></a>
   <a href="https://youtube.com/abolfazl_ghorbani"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/></a>
-  <a href="mailto:abolfazlghorbani369@proton.me"><img src="https://img.shields.io/badge/Email-ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="email"/></a>
+  <a href="mailto:abolfazlghorbani369@gmail.com"><img src="https://img.shields.io/badge/Email-ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="email"/></a>
+  <a href="https://t.me/aghorbani_84"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/></a>
 </p>
 
 </div>
